@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @blpinto
+- I’m interested in economics, statistics, and data analytics 
+- I’m currently learning R and SQL
+- 📫  Reach me @ brookelpinto@gmail.com
